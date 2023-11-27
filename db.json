@@ -1,0 +1,319 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice"
+    },
+    {
+      "id": "2",
+      "name": "Bob"
+    },
+    {
+      "id": "3",
+      "name": "Charlie"
+    },
+    {
+      "id": "4",
+      "name": "David"
+    },
+    {
+      "id": "5",
+      "name": "Eve"
+    },
+    {
+      "id": "6",
+      "name": "Fred"
+    },
+    {
+      "id": "7",
+      "name": "Ginny"
+    },
+    {
+      "id": "8",
+      "name": "Harry"
+    },
+    {
+      "id": "9",
+      "name": "Igor"
+    },
+    {
+      "id": "10",
+      "name": "John"
+    },
+    {
+      "id": "11",
+      "name": "Karen"
+    },
+    {
+      "id": "12",
+      "name": "Laura"
+    },
+    {
+      "id": "13",
+      "name": "Michael"
+    },
+    {
+      "id": "14",
+      "name": "Nancy"
+    },
+    {
+      "id": "15",
+      "name": "Oscar"
+    },
+    {
+      "id": "16",
+      "name": "Peggy"
+    },
+    {
+      "id": "17",
+      "name": "Quentin"
+    },
+    {
+      "id": "18",
+      "name": "Romeo"
+    },
+    {
+      "id": "19",
+      "name": "Sarah"
+    },
+    {
+      "id": "20",
+      "name": "Trent"
+    },
+    {
+      "id": "21",
+      "name": "Ursula"
+    },
+    {
+      "id": "22",
+      "name": "Victor"
+    },
+    {
+      "id": "23",
+      "name": "Wendy"
+    },
+    {
+      "id": "24",
+      "name": "Xavier"
+    },
+    {
+      "id": "25",
+      "name": "Yvonne"
+    },
+    {
+      "id": "26",
+      "name": "Zelda"
+    },
+    {
+      "username": "yplo",
+      "id": "ltNDkfE"
+    },
+    {
+      "username": "test",
+      "id": "y12otlA"
+    },
+    {
+      "username": "yolo",
+      "id": "oyrVrkq"
+    },
+    {
+      "username": "fdsfds",
+      "id": "WfyOh-3"
+    },
+    {
+      "username": "dsfdsfds",
+      "id": "cbzJT70"
+    },
+    {
+      "username": "fdsfds",
+      "id": "cDSb1Gv"
+    },
+    {
+      "username": "Kenza",
+      "id": "AFN2j2T"
+    },
+    {
+      "username": "Kenza",
+      "id": "GA-TySf"
+    },
+    {
+      "username": "b,n",
+      "id": "B6sZ9K0"
+    },
+    {
+      "username": "Kenza",
+      "id": "5D2RfSg"
+    },
+    {
+      "username": "Alex",
+      "id": "3S0CZUY"
+    },
+    {
+      "username": "Kenza",
+      "id": "WJwCaqM"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "content": "Bonjour, comment ça va?",
+      "authorId": "1",
+      "date": "2023-11-25T09:00:00.000Z",
+      "threadId": "1"
+    },
+    {
+      "id": "2",
+      "content": "Salut! Tout va bien, merci.",
+      "authorId": "2",
+      "date": "2023-11-25T09:05:00.000Z",
+      "threadId": "1"
+    },
+    {
+      "id": "3",
+      "content": "Super!",
+      "authorId": "1",
+      "date": "2023-11-25T09:10:00.000Z",
+      "threadId": "1"
+    },
+    {
+      "id": "4",
+      "content": "Et toi?",
+      "authorId": "1",
+      "date": "2023-11-25T09:15:00.000Z",
+      "threadId": "1"
+    },
+    {
+      "id": "5",
+      "content": "Oui, ça va.",
+      "authorId": "2",
+      "date": "2023-11-25T09:20:00.000Z",
+      "threadId": "1"
+    },
+    {
+      "id": "6",
+      "content": "J'ai un projet à vous proposer.",
+      "authorId": "1",
+      "date": "2023-11-25T09:25:00.000Z",
+      "threadId": "2"
+    },
+    {
+      "id": "7",
+      "content": "Je suis partant!",
+      "authorId": "2",
+      "date": "2023-11-25T09:30:00.000Z",
+      "threadId": "2"
+    },
+    {
+      "id": "8",
+      "content": "Moi aussi!",
+      "authorId": "1",
+      "date": "2023-11-25T09:35:00.000Z",
+      "threadId": "2"
+    },
+    {
+      "id": "9",
+      "content": "On se retrouve quand?",
+      "authorId": "2",
+      "date": "2023-11-25T09:40:00.000Z",
+      "threadId": "2"
+    },
+    {
+      "id": "10",
+      "content": "Jeudi prochain?",
+      "authorId": "1",
+      "date": "2023-11-25T09:45:00.000Z",
+      "threadId": "2"
+    },
+    {
+      "authorId": "cbzJT70",
+      "threadId": "1",
+      "id": "7c83-2o"
+    },
+    {
+      "content": "",
+      "authorId": "cbzJT70",
+      "threadId": "1",
+      "id": "HPdz-bn"
+    },
+    {
+      "content": "ptdr",
+      "authorId": "cDSb1Gv",
+      "threadId": "1",
+      "id": "gsi2LDL"
+    },
+    {
+      "content": "Salut",
+      "authorId": "AFN2j2T",
+      "threadId": "1",
+      "id": "paYBNvL"
+    },
+    {
+      "content": "",
+      "authorId": "AFN2j2T",
+      "threadId": "1",
+      "id": "NvwOi6g"
+    },
+    {
+      "content": "",
+      "authorId": "AFN2j2T",
+      "threadId": "1",
+      "id": "kt57ZBv"
+    },
+    {
+      "content": "",
+      "authorId": "AFN2j2T",
+      "threadId": "1",
+      "id": "eq3_YTH"
+    },
+    {
+      "content": "Bonjour à tous",
+      "authorId": "AFN2j2T",
+      "threadId": "3",
+      "id": "Xf4KA0K"
+    },
+    {
+      "content": "Bonjour",
+      "authorId": "GA-TySf",
+      "threadId": "1",
+      "id": "3PdCg0L"
+    },
+    {
+      "content": "salut",
+      "authorId": "Kenza",
+      "threadId": "1",
+      "id": "iItKpOh"
+    },
+    {
+      "content": "ok test",
+      "authorId": "Kenza",
+      "threadId": "1",
+      "id": "WLPWuM3"
+    },
+    {
+      "content": "Haha",
+      "authorId": "Alex",
+      "threadId": "1",
+      "id": "utlWs7e"
+    },
+    {
+      "content": "Hoho",
+      "authorId": "Alex",
+      "threadId": "3",
+      "id": "ku6kzQA"
+    }
+  ],
+  "threads": [
+    {
+      "id": "1",
+      "label": "Discussion Générale"
+    },
+    {
+      "id": "2",
+      "label": "Projets"
+    },
+    {
+      "id": "3",
+      "label": "Autre"
+    }
+  ]
+}
